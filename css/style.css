@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+}
+
+div{
+
+	padding: 1%;
+	margin: 0% 1%;
+	display: inline-block;
+
+}
+.amarillo{
+	
+	background: #ffc107;
+
+}
+
+.negro{
+
+	background: black;
+	color: white;
+
+}
